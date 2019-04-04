@@ -1,0 +1,27 @@
+runtime: java
+env: flex
+
+#manual_scaling:
+#  instances: 2
+#resources:
+#  cpu: 1
+#  memory_gb: 0.5
+#  disk_size_gb: 10
+
+readiness_check:
+  app_start_timeout_sec: 3000
+
+
+handlers:
+  - url: /.*
+    script: this field is required, but ignored
+
+skip_files:
+  - ^(.*/)?\en-parser-chunking.bin$
+
+runtime_config:  # Optional
+  jdk: openjdk8
+  server: jetty9
+
+resources:
+  memory_gb: 2.0

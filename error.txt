@@ -1,0 +1,1015 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>[<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "566js1nb114t5331c",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "4",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T16:43:53Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "2bde8640b399",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "5978673436892564764",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-b",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-4-x7z0"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T16:44:37.050444445Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "shus55tcavjbybtjz",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "4",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T16:43:25Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "49f3813647d6",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "1017174023106956572",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-4-r9zt"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T16:44:20.138872701Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "xvgguz130k1uns0kk",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T16:23:02Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "a42205b4a419",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8433690946743013830"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T16:23:38.960413019Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "zmpx48j4nh1lkpgqp",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T16:19:51Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "bc24b9892ce7",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "1061734137004265600"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T16:20:10.764257135Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "plhzejrikjpdvi3p3",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T16:06:06Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "4ff5d1a3901d",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8270076611438286290"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T16:06:24.834095826Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "eoj9adst9e44bx9ih",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T15:36:22Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "6906d0d1cc55",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "1516942035486743256",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T15:36:42.061975426Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "91owb1xv9orqhooh9",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T15:13:08Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "b7db8139a13e",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "215900891390910499"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T15:13:21.562725623Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "0g7tmkl7ubtw598mm",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T14:42:45Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "361da88e72d1",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "3517071926860949827"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T14:43:00.357214412Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "cerjmibmfifky0lg4",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T14:15:55Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "becc0d3c90e6",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "1614168713404854152",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T14:16:10.747368861Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "thjg7kd6ddpglo73a",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T14:13:15Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "f9b31c6cb5ef",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "4391182704575229487",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T14:13:36.694268777Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "jv1uhwsol000sjv5y",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T14:03:35Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "6e8417b33a68",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "5402758527687831658",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T14:03:52.469649380Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "qjocpif796s2jtsa0",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T14:02:51Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "25f719f3a8f8",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "3658590648292585660"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T14:03:07.230947704Z"<br> &nbsp;},<br> &nbsp;{<br>
+ &nbsp; &nbsp;"textPayload": "javax.servlet.ServletException: 
+appengine-spring-boot@3dcbe788==org.springframework.web.servlet.DispatcherServlet,jsp=null,order=1,inst=false,async=false\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:692)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initialize(ServletHolder.java:428)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:750)\n\tat
+ 
+java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:352)\n\tat
+ 
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)\n\tat
+ 
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\n\tat
+ 
+java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)\n\tat
+ 
+java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:744)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:369)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1497)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1459)\n\tat
+ 
+org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:852)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:278)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:545)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.bindings.StandardStarter.processBinding(StandardStarter.java:46)\n\tat
+ 
+org.eclipse.jetty.deploy.AppLifeCycle.runBindings(AppLifeCycle.java:192)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.requestAppGoal(DeploymentManager.java:505)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.addApp(DeploymentManager.java:151)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.fileAdded(ScanningAppProvider.java:180)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.WebAppProvider.fileAdded(WebAppProvider.java:447)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider$1.fileAdded(ScanningAppProvider.java:64)\n\tat
+ org.eclipse.jetty.util.Scanner.reportAddition(Scanner.java:610)\n\tat 
+org.eclipse.jetty.util.Scanner.reportDifferences(Scanner.java:529)\n\tat
+ org.eclipse.jetty.util.Scanner.scan(Scanner.java:392)\n\tat 
+org.eclipse.jetty.util.Scanner.doStart(Scanner.java:313)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.doStart(ScanningAppProvider.java:150)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.startAppProvider(DeploymentManager.java:579)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.doStart(DeploymentManager.java:240)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:138)\n\tat
+ org.eclipse.jetty.server.Server.start(Server.java:415)\n\tat 
+org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)\n\tat
+ 
+org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:113)\n\tat
+ org.eclipse.jetty.server.Server.doStart(Server.java:382)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1572)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1512)\n\tat
+ java.security.AccessController.doPrivileged(Native Method)\n\tat 
+org.eclipse.jetty.xml.XmlConfiguration.main(XmlConfiguration.java:1511)\nCaused
+ by: org.springframework.beans.factory.BeanCreationException: Error 
+creating bean with name 
+'org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration':
+ Bean instantiation via constructor failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:304)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:285)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:307)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:701)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:667)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:715)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:590)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:529)\n\tat
+ 
+org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)\n\tat
+ javax.servlet.GenericServlet.init(GenericServlet.java:244)\n\tat 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:671)\n\t...
+ 44 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:184)\n\tat
+ 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:300)\n\t...
+ 75 more\nCaused by: 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1244)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory$DependencyObjectProvider.getIfUnique(DefaultListableBeanFactory.java:1898)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration.&lt;init&gt;(FlywayAutoConfiguration.java:136)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb.&lt;init&gt;(&lt;generated&gt;)\n\tat
+ sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native 
+Method)\n\tat 
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:172)\n\t...
+ 77 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)\n\t...
+ 96 more\nCaused by: 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:236)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.initializeDataSourceBuilder(DataSourceProperties.java:176)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:83)\n\tat
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat 
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat
+ java.lang.reflect.Method.invoke(Method.java:498)\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)\n\t...
+ 97 more\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hiazz",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:48Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstderr",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:55.767147192Z"<br> &nbsp;},<br> &nbsp;{<br>
+ &nbsp; &nbsp;"textPayload": "javax.servlet.ServletException: 
+appengine-spring-boot@3dcbe788==org.springframework.web.servlet.DispatcherServlet,jsp=null,order=1,inst=false,async=false\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:692)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initialize(ServletHolder.java:428)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:750)\n\tat
+ 
+java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:352)\n\tat
+ 
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)\n\tat
+ 
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\n\tat
+ 
+java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)\n\tat
+ 
+java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:744)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:369)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1497)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1459)\n\tat
+ 
+org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:852)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:278)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:545)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.bindings.StandardStarter.processBinding(StandardStarter.java:46)\n\tat
+ 
+org.eclipse.jetty.deploy.AppLifeCycle.runBindings(AppLifeCycle.java:192)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.requestAppGoal(DeploymentManager.java:505)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.addApp(DeploymentManager.java:151)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.fileAdded(ScanningAppProvider.java:180)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.WebAppProvider.fileAdded(WebAppProvider.java:447)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider$1.fileAdded(ScanningAppProvider.java:64)\n\tat
+ org.eclipse.jetty.util.Scanner.reportAddition(Scanner.java:610)\n\tat 
+org.eclipse.jetty.util.Scanner.reportDifferences(Scanner.java:529)\n\tat
+ org.eclipse.jetty.util.Scanner.scan(Scanner.java:392)\n\tat 
+org.eclipse.jetty.util.Scanner.doStart(Scanner.java:313)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.doStart(ScanningAppProvider.java:150)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.startAppProvider(DeploymentManager.java:579)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.doStart(DeploymentManager.java:240)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:138)\n\tat
+ org.eclipse.jetty.server.Server.start(Server.java:415)\n\tat 
+org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)\n\tat
+ 
+org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:113)\n\tat
+ org.eclipse.jetty.server.Server.doStart(Server.java:382)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1572)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1512)\n\tat
+ java.security.AccessController.doPrivileged(Native Method)\n\tat 
+org.eclipse.jetty.xml.XmlConfiguration.main(XmlConfiguration.java:1511)\nCaused
+ by: org.springframework.beans.factory.BeanCreationException: Error 
+creating bean with name 
+'org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration':
+ Bean instantiation via constructor failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:304)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:285)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:307)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:701)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:667)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:715)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:590)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:529)\n\tat
+ 
+org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)\n\tat
+ javax.servlet.GenericServlet.init(GenericServlet.java:244)\n\tat 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:671)\n\t...
+ 44 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:184)\n\tat
+ 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:300)\n\t...
+ 75 more\nCaused by: 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1244)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory$DependencyObjectProvider.getIfUnique(DefaultListableBeanFactory.java:1898)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration.&lt;init&gt;(FlywayAutoConfiguration.java:136)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb.&lt;init&gt;(&lt;generated&gt;)\n\tat
+ sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native 
+Method)\n\tat 
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:172)\n\t...
+ 77 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)\n\t...
+ 96 more\nCaused by: 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:236)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.initializeDataSourceBuilder(DataSourceProperties.java:176)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:83)\n\tat
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat 
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat
+ java.lang.reflect.Method.invoke(Method.java:498)\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)\n\t...
+ 97 more\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hiavf",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:48Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstderr",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:55.767147192Z"<br> &nbsp;},<br> &nbsp;{<br>
+ &nbsp; &nbsp;"textPayload": 
+"org.springframework.beans.factory.BeanCreationException: Error creating
+ bean with name 
+'org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration':
+ Bean instantiation via constructor failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:304)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:285)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:307)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:701)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:667)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:715)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:590)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:529)\n\tat
+ 
+org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)\n\tat
+ javax.servlet.GenericServlet.init(GenericServlet.java:244)\n\tat 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:671)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initialize(ServletHolder.java:428)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:750)\n\tat
+ 
+java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:352)\n\tat
+ 
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)\n\tat
+ 
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\n\tat
+ 
+java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)\n\tat
+ 
+java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:744)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:369)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1497)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1459)\n\tat
+ 
+org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:852)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:278)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:545)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.bindings.StandardStarter.processBinding(StandardStarter.java:46)\n\tat
+ 
+org.eclipse.jetty.deploy.AppLifeCycle.runBindings(AppLifeCycle.java:192)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.requestAppGoal(DeploymentManager.java:505)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.addApp(DeploymentManager.java:151)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.fileAdded(ScanningAppProvider.java:180)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.WebAppProvider.fileAdded(WebAppProvider.java:447)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider$1.fileAdded(ScanningAppProvider.java:64)\n\tat
+ org.eclipse.jetty.util.Scanner.reportAddition(Scanner.java:610)\n\tat 
+org.eclipse.jetty.util.Scanner.reportDifferences(Scanner.java:529)\n\tat
+ org.eclipse.jetty.util.Scanner.scan(Scanner.java:392)\n\tat 
+org.eclipse.jetty.util.Scanner.doStart(Scanner.java:313)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.doStart(ScanningAppProvider.java:150)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.startAppProvider(DeploymentManager.java:579)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.doStart(DeploymentManager.java:240)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:138)\n\tat
+ org.eclipse.jetty.server.Server.start(Server.java:415)\n\tat 
+org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)\n\tat
+ 
+org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:113)\n\tat
+ org.eclipse.jetty.server.Server.doStart(Server.java:382)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1572)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1512)\n\tat
+ java.security.AccessController.doPrivileged(Native Method)\n\tat 
+org.eclipse.jetty.xml.XmlConfiguration.main(XmlConfiguration.java:1511)\nCaused
+ by: org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:184)\n\tat
+ 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:300)\n\t...
+ 75 more\nCaused by: 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1244)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory$DependencyObjectProvider.getIfUnique(DefaultListableBeanFactory.java:1898)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration.&lt;init&gt;(FlywayAutoConfiguration.java:136)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb.&lt;init&gt;(&lt;generated&gt;)\n\tat
+ sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native 
+Method)\n\tat 
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:172)\n\t...
+ 77 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)\n\t...
+ 96 more\nCaused by: 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:236)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.initializeDataSourceBuilder(DataSourceProperties.java:176)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:83)\n\tat
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat 
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat
+ java.lang.reflect.Method.invoke(Method.java:498)\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)\n\t...
+ 97 more\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hiaqo",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:48Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstderr",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:55.767147192Z"<br> &nbsp;},<br> &nbsp;{<br>
+ &nbsp; &nbsp;"textPayload": 
+"org.springframework.beans.factory.BeanCreationException: Error creating
+ bean with name 
+'org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration':
+ Bean instantiation via constructor failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:304)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:285)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:307)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)\n\tat
+ 
+org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:701)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:667)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:715)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:590)\n\tat
+ 
+org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:529)\n\tat
+ 
+org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)\n\tat
+ javax.servlet.GenericServlet.init(GenericServlet.java:244)\n\tat 
+org.eclipse.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:671)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHolder.initialize(ServletHolder.java:428)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:750)\n\tat
+ 
+java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:352)\n\tat
+ 
+java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)\n\tat
+ 
+java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\n\tat
+ 
+java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)\n\tat
+ 
+java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)\n\tat
+ 
+java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:744)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:369)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1497)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1459)\n\tat
+ 
+org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:852)\n\tat
+ 
+org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:278)\n\tat
+ 
+org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:545)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.bindings.StandardStarter.processBinding(StandardStarter.java:46)\n\tat
+ 
+org.eclipse.jetty.deploy.AppLifeCycle.runBindings(AppLifeCycle.java:192)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.requestAppGoal(DeploymentManager.java:505)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.addApp(DeploymentManager.java:151)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.fileAdded(ScanningAppProvider.java:180)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.WebAppProvider.fileAdded(WebAppProvider.java:447)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider$1.fileAdded(ScanningAppProvider.java:64)\n\tat
+ org.eclipse.jetty.util.Scanner.reportAddition(Scanner.java:610)\n\tat 
+org.eclipse.jetty.util.Scanner.reportDifferences(Scanner.java:529)\n\tat
+ org.eclipse.jetty.util.Scanner.scan(Scanner.java:392)\n\tat 
+org.eclipse.jetty.util.Scanner.doStart(Scanner.java:313)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.providers.ScanningAppProvider.doStart(ScanningAppProvider.java:150)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.startAppProvider(DeploymentManager.java:579)\n\tat
+ 
+org.eclipse.jetty.deploy.DeploymentManager.doStart(DeploymentManager.java:240)\n\tat
+ 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:138)\n\tat
+ org.eclipse.jetty.server.Server.start(Server.java:415)\n\tat 
+org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)\n\tat
+ 
+org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:113)\n\tat
+ org.eclipse.jetty.server.Server.doStart(Server.java:382)\n\tat 
+org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:68)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1572)\n\tat
+ 
+org.eclipse.jetty.xml.XmlConfiguration$1.run(XmlConfiguration.java:1512)\n\tat
+ java.security.AccessController.doPrivileged(Native Method)\n\tat 
+org.eclipse.jetty.xml.XmlConfiguration.main(XmlConfiguration.java:1511)\nCaused
+ by: org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:184)\n\tat
+ 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:300)\n\t...
+ 75 more\nCaused by: 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1288)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1127)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)\n\tat
+ 
+org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)\n\tat
+ 
+org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1244)\n\tat
+ 
+org.springframework.beans.factory.support.DefaultListableBeanFactory$DependencyObjectProvider.getIfUnique(DefaultListableBeanFactory.java:1898)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration.&lt;init&gt;(FlywayAutoConfiguration.java:136)\n\tat
+ 
+org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb.&lt;init&gt;(&lt;generated&gt;)\n\tat
+ sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native 
+Method)\n\tat 
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat 
+org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:172)\n\t...
+ 77 more\nCaused by: 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)\n\tat
+ 
+org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)\n\t...
+ 96 more\nCaused by: 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n\tat 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:236)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.initializeDataSourceBuilder(DataSourceProperties.java:176)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43)\n\tat
+ 
+org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:83)\n\tat
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat 
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat
+ 
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat
+ java.lang.reflect.Method.invoke(Method.java:498)\n\tat 
+org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)\n\t...
+ 97 more\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hhzvx",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:48Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:59.514012380Z"<br> &nbsp;},<br> &nbsp;{<br>
+ &nbsp; &nbsp;"textPayload": "2019-04-04 13:53:48.489 &nbsp;WARN 
+e58523768493 --- [ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; main] 
+.s.AnnotationConfigWebApplicationContext : Exception encountered during 
+context initialization - cancelling refresh attempt: 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 
+'org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration':
+ Bean instantiation via constructor failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate 
+[org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration$FlywayConfiguration$$EnhancerBySpringCGLIB$$afd120fb]:
+ Constructor threw exception; nested exception is 
+org.springframework.beans.factory.BeanCreationException: Error creating 
+bean with name 'dataSource' defined in class path resource 
+[org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]:
+ Bean instantiation via factory method failed; nested exception is 
+org.springframework.beans.BeanInstantiationException: Failed to 
+instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 
+'dataSource' threw exception; nested exception is 
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException:
+ Failed to determine a suitable driver class\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hhztb",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:48Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:55.767147192Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "hay5dxcgq600hhvsq",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T13:53:09Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "de8a811c9b2a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7609783101153850086",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T13:53:21.905344251Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "mfs6ir8t91nwcq58t",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T12:53:02Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "9f2a69c56c50",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8170681756719530779",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T12:53:19.784350725Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "wf20icv1zb3347ch4",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T12:40:02Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "a2cf191c437a",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8410953943928554549",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T12:40:52.154845233Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "dxp5u1v2laazqgctk",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T12:30:16Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "930f91ef0981",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8665082309814797944"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T12:30:51.894863487Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "7jwe0p1975c7v3id0",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T12:22:22Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "0d86a6d9cc13",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8999024572653652010",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T12:22:39.744620884Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "ecg3b71wc2xw97ox2",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T12:15:50Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "a40804e5f203",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "7521838461742500818",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T12:16:08.298043732Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "r8028jqtptayszrw6",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default",<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T11:55:06Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "34bbdbdbfd78",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "4773377262832078513",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T11:55:20.833724768Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "o8c9y5jq57ygqszrb",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T11:35:10Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "2c30ee26b4d6",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "1276092566018217280",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T11:35:22.495164161Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "dc943r5vk7hq4r7dh",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T11:14:50Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "84679d87b947",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "8460972037841115139",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-f",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-pz1m"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T11:15:05.517067350Z"<br> &nbsp;},<br> &nbsp;{<br> &nbsp; &nbsp;"textPayload": " extracting: /var/lib/jetty/webapps/root/WEB-INF/lib/flyway-core-5.2.4.jar &nbsp;\n",<br> &nbsp; &nbsp;"insertId": "o7astgp5uoizu99vi",<br> &nbsp; &nbsp;"resource": {<br> &nbsp; &nbsp; &nbsp;"type": "gae_app",<br> &nbsp; &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp; &nbsp;"project_id": "cloudsql-my",<br> &nbsp; &nbsp; &nbsp; &nbsp;"version_id": "2",<br> &nbsp; &nbsp; &nbsp; &nbsp;"module_id": "default"<br> &nbsp; &nbsp; &nbsp;}<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"timestamp": "2019-04-04T11:06:42Z",<br> &nbsp; &nbsp;"labels": {<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_name": "ade11c769229",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/resource_id": "6261507616133372446",<br> &nbsp; &nbsp; &nbsp;"compute.googleapis.com/zone": "us-central1-c",<br> &nbsp; &nbsp; &nbsp;"appengine.googleapis.com/instance_name": "aef-default-2-fcfj"<br> &nbsp; &nbsp;},<br> &nbsp; &nbsp;"logName": "projects/cloudsql-my/logs/appengine.googleapis.com%2Fstdout",<br> &nbsp; &nbsp;"receiveTimestamp": "2019-04-04T11:07:27.118979552Z"<br> &nbsp;}<br>]</body></html>
