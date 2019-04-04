@@ -126,11 +126,11 @@
         <!-- End : AppEngine-->
 
         <!-- Google Cloud SQL -->
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.cloud</groupId>-->
-            <!--<artifactId>spring-cloud-gcp-starter</artifactId>-->
-            <!--<version>1.1.1.RELEASE</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-gcp-starter</artifactId>
+            <version>1.1.1.RELEASE</version>
+        </dependency>
         <!-- MySQL Socket Factory for Cloud SQL -->
         <dependency>
             <groupId>com.google.cloud.sql</groupId>
@@ -160,13 +160,6 @@
                     <version>4</version>
                 </configuration>
             </plugin>
-
-            <!--<plugin>-->
-                <!--<artifactId>maven-deploy-plugin</artifactId>-->
-                <!--<configuration>-->
-                    <!--<skip>true</skip>-->
-                <!--</configuration>-->
-            <!--</plugin>-->
 
             <!--  Maven WAR Packaging -->
             <plugin>
